@@ -1,4 +1,4 @@
-# k-means-clustering
+# Customer Segmentation with K-Means Clustering
 
 <img src="/image.png" width="1000" height="300" />
 <div align="justify">
